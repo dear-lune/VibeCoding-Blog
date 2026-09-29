@@ -52,5 +52,5 @@ VibeCoding/
 - 后端 API：http://127.0.0.1:8000
 - Swagger 文档：http://127.0.0.1:8000/docs
 
-## 项目演示视频
+## 项目演示视频(实际很丝滑，不知道为什么视频里卡卡的)
 [点击这里观看（阿里云盘）](https://www.alipan.com/s/QWUMZGQjrwk)
