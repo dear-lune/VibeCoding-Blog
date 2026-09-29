@@ -48,6 +48,6 @@ VibeCoding/
 - 后端数据：`backend/blog.db`（SQLite数据库，重启不丢）。
 
 ## 访问地址（最终验证状态）
-- 前端：http://localhost:5173（根据实际运行端口填写）
+- 前端：http://localhost:5173
 - 后端 API：http://127.0.0.1:8000
 - Swagger 文档：http://127.0.0.1:8000/docs
